@@ -93,7 +93,7 @@ git push
 > Пример:
 
 <kbd>
-<image src ="https://ibb.co/8mn9VtP">
+<image src ="https://i.ibb.co/b6jXnDN/2023-01-21-14-59-14.png">
 </kbd>
  
   - Далее нажимаем на кнопку "New Pull Request"
@@ -101,7 +101,7 @@ git push
 > Пример:
 
 <kbd>
-<image src ="https://ibb.co/93mRkNP">
+<image src ="https://i.ibb.co/YT4vF3g/2023-01-21-15-03-36.png">
 </kbd>
 
   - Затем смотрим за тем чтобы слияние проводилось с желаемой веткой, в данном случае основной.
@@ -109,11 +109,11 @@ git push
 > Пример:
 
 <kbd>
-<image src="https://ibb.co/ZTNs9hg">
+<image src="https://i.ibb.co/cTx5qN8/2023-01-21-15-12-50.png">
 </kbd>
 
 - После чего нажимаем на кнопку "Create pull request"
 
 <kbd>
-<image src ="https://ibb.co/bPnJQv7">
+<image src ="https://i.ibb.co/hyvfLdC/2023-01-21-15-15-12.png">
 </kbd>
