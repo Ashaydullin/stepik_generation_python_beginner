@@ -1,6 +1,0 @@
-num1 = int(input())
-num2 = int(input())
-num3 = int(input())
-num4 = int(input())
-manhdist = abs(num1 - num3) + abs(num2 - num4)
-print(manhdist)
