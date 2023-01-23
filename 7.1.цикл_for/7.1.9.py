@@ -1,3 +1,3 @@
-num = int(input())
-for item in range(num, 0, - 1):
-    print(item * "*")
+for i in range(num):
+    print("*" * item)
+    num -= 1
