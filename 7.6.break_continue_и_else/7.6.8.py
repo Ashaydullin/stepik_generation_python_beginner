@@ -1,9 +1,2 @@
-num = int(input())
-for i in range(1, num + 1):
-    if i in range(5, 10):
+if 5 <= n <= 9 or 17 <= n <= 37 or 78 <= n <= 87:
         continue
-    elif i in range(17, 38):
-        continue
-    elif i in range(78, 88):
-        continue   
-    print(i)

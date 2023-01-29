@@ -1,4 +1,4 @@
 num = input()
-while num != "КОНЕЦ" and num != "конец":
+while num not in ("КОНЕЦ", "конец"):
     print(num)
     num = input()
