@@ -4,6 +4,6 @@ while num > 9:
     while (num > 0):
         last_digit = num % 10  
         summ += last_digit    
-        num = num // 10       
+        num //= 10       
     num = summ
 print(num)
